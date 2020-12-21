@@ -3,15 +3,15 @@
 <p> It tells you what kind of a person you are</p> 
 <hr>
 <h3>App Snaps:</h3>
-<img src="/Images/1.jpg" alt="Could not load image" style="max-width:100%;">
+<img src="/Images/1.JPG" alt="Could not load image" style="max-width:100%;">
 <br>
 <hr>
 <br>
-<img src="/Images/2.jpg" alt="Could not load image" style="max-width:100%;">
+<img src="/Images/2.JPG" alt="Could not load image" style="max-width:100%;">
 <br>
 <hr>
 <br>
-<img src="/Images/3.jpg" alt="Could not load image" style="max-width:100%;">
+<img src="/Images/3.JPG" alt="Could not load image" style="max-width:100%;">
 <br>
 <hr>
 <br>
